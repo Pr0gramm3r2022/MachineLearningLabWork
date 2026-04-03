@@ -1,2 +1,2 @@
 # MLfundamentals
-Building ML algoithms to build skill in implementing them
+Building and implementinh ML Algorithms to build a deeper understanding of them
